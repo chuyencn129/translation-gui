@@ -1,5 +1,5 @@
 {
-    "name": "meesudzu/translation-gui",
+    "name": "chuyencn129/translation-gui",
     "description": "Manage language files with ease.",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "multilingual",
         "translation"
     ],
-    "homepage": "https://gitlab.com/meesudzu/translation-gui",
+    "homepage": "https://gitlab.com/chuyencn129/translation-gui",
     "license": "MIT",
     "authors": [
         {
